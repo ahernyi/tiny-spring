@@ -1,0 +1,17 @@
+org\tiny\spring\beans\support\RootBeanDefinition.class
+org\tiny\spring\beans\factory\BeanFactory.class
+org\tiny\spring\beans\factory\config\SingletonBeanRegistry.class
+org\tiny\spring\beans\factory\support\BeanDefinitionRegistry.class
+org\tiny\spring\beans\factory\config\BeanDefinition.class
+org\tiny\spring\beans\factory\config\ListableBeanFactory.class
+org\tiny\spring\beans\support\AbstractBeanDefinition.class
+org\tiny\spring\beans\factory\config\ConfigurableListableBeanFactory.class
+org\tiny\spring\beans\factory\config\AutowireCapableBeanFactory.class
+org\tiny\spring\beans\factory\NoSuchBeanDefinitionException.class
+org\tiny\spring\beans\factory\BeansException.class
+org\tiny\spring\beans\factory\config\BeanDefinitionHolder.class
+org\tiny\spring\beans\support\DefaultListableBeanFactory.class
+org\tiny\spring\beans\factory\HierarchicalBeanFactory.class
+org\tiny\spring\beans\factory\config\ConfigurableBeanFactory.class
+org\tiny\spring\beans\factory\BeanDefinitionStoreException.class
+org\tiny\spring\beans\factory\annotation\AnnotatedGengericBeanDefinition.class
